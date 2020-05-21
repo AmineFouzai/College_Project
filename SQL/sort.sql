@@ -1,0 +1,1 @@
+REPLACE  INTO Poules_{} SELECT * FROM Poules_{}  ORDER BY Total_Point DESC

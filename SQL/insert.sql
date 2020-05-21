@@ -1,0 +1,1 @@
+Insert into Poules_{} values('{}',{},{},{},{},{},{},{} )

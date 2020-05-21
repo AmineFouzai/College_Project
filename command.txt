@@ -1,0 +1,1 @@
+pyinstaller --add-data="static/ball.ico;static" --add-data "SQL/*.sql;SQL" --icon="static/ball.ico" --name="myapp" --noconsole app.py

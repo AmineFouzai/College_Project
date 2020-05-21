@@ -1,0 +1,1 @@
+DELETE FROM Poules_{} WHERE Nom ='{}'
