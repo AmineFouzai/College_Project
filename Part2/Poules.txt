@@ -1,0 +1,56 @@
+{
+    "Poule_Name": "A",
+    "Equipes": [
+        {
+            "Nom": "ala",
+            "NB_Match": 2,
+            "Total_Point": 10,
+            "NB_Victoir": 2,
+            "NB_Defait": 2,
+            "NB_Match_Null": 2,
+            "But_Marque": 2,
+            "But_Concede": 2
+        },
+        {
+            "Nom": "chala",
+            "NB_Match": 1,
+            "Total_Point": 5,
+            "NB_Victoir": 1,
+            "NB_Defait": 1,
+            "NB_Match_Null": 1,
+            "But_Marque": 1,
+            "But_Concede": 1
+        },
+        {
+            "Nom": "xss",
+            "NB_Match": 0,
+            "Total_Point": 0,
+            "NB_Victoir": 0,
+            "NB_Defait": 0,
+            "NB_Match_Null": 0,
+            "But_Marque": 0,
+            "But_Concede": 0
+        }
+    ]
+}{
+    "Poule_Name": "B",
+    "Equipes": []
+}{
+    "Poule_Name": "C",
+    "Equipes": []
+}{
+    "Poule_Name": "D",
+    "Equipes": []
+}{
+    "Poule_Name": "E",
+    "Equipes": []
+}{
+    "Poule_Name": "F",
+    "Equipes": []
+}{
+    "Poule_Name": "G",
+    "Equipes": []
+}{
+    "Poule_Name": "H",
+    "Equipes": []
+}
