@@ -3,12 +3,13 @@
 A Simple Desktop App With Python Tkinter For Manging Soccer Tournaments.
 
 # setup:
-----------------------
-|1. git clone this repo|
-|-----------------------
-|1. cd College_Project|
-| 1. python app.py     |
-----------------------
+ ----------------------
+
+    1) git clone https://github.com/MedAmineFouzai/College_Project/ 
+    2) cd College_Project                                           
+    3) python app.py                                                 
+
+
 # Usage:
 
 No requirements needed for this app because it works with the standard libraries of the language
